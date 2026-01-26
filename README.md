@@ -196,3 +196,4 @@ We want to make contributing to this project as easy and transparent as possible
  [swift-version-svg]: https://img.shields.io/badge/Swift-5-orange.svg
 
  [continueWith-source]: https://github.com/BoltsFramework/Bolts-Swift/blob/master/Sources/BoltsSwift/Task%2BContinueWith.swift
+Created by Jason Scott Heise
